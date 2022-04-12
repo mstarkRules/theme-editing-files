@@ -1,6 +1,9 @@
-*
-!*/
-!wp-content/**
-!.gitignore
-!/index.php
-!/license.txt
+
+#this lines should make git ignore all files except wp-content and some other files
+# *
+# !*/
+# !wp-content/**
+# !.gitignore
+# !/index.php
+# !/license.txt
+
