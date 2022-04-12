@@ -1,0 +1,6 @@
+*
+!*/
+!wp-content/**
+!.gitignore
+!/index.php
+!/license.txt
