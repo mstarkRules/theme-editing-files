@@ -10,13 +10,13 @@
 
     <header>
         <div class="top-bar">
-            <div class="social-networks"></div>
-            <div class="search"></div>
+            <div class="social-networks">Redes Sociais</div>
+            <div class="search">Pesquisar</div>
         </div>
         <div class="menu-area">
             <div class="logo">
-
+                Logo
             </div>
-            <div class="nav-menu"></div>
+            <div class="nav-menu">Menu Principal</div>
         </div>
     </header>
