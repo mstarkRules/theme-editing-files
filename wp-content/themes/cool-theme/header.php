@@ -4,10 +4,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cool Theme</title>
+
+    <?php wp_head() ?>
 </head>
 <body <?php body_class();?>>
-    <p>Hello World!</p>
-
     <header>
         <div class="top-bar">
             <div class="social-networks">Redes Sociais</div>
